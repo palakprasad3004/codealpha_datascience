@@ -36,3 +36,25 @@ NumPy
 Matplotlib
 Seaborn
 Scikit-learn
+
+Unemployment Analysis Project 📊
+📌 Project Overview:
+The Unemployment Analysis project focuses on analyzing unemployment trends using data visualization and data analytics techniques. The project helps understand how unemployment rates vary across different regions, time periods, and demographic factors.
+Using Python libraries, the project performs data cleaning, visualization, and statistical analysis to uncover meaningful insights from unemployment datasets.
+🚀 Features:
+Data cleaning and preprocessing
+Exploratory Data Analysis (EDA)
+Visualization of unemployment trends
+State-wise and region-wise analysis
+Correlation analysis between different factors
+Insight generation using graphical representation
+🛠️ Technologies Used:
+Python
+Pandas
+NumPy
+Matplotlib
+Seaborn
+Plotly (Optional)
+Jupyter Notebook
+
+Special thanks to open-source datasets and the Python data science community for providing valuable tools and resources for learning and development.
